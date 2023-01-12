@@ -1,0 +1,15 @@
+variables:
+  GIT_DEPTH: 0
+
+image: harbor.croz.net/inkubator/node-gitlab-ci:ci
+
+stages:
+  - publish
+
+publish:
+  only:
+    - master
+  stage: publish
+  script:
+    - >
+      time npm publish --registry https://nexus.croz.net/repository/npm/ $YARN_PARAMS;
