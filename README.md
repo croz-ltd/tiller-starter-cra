@@ -49,7 +49,7 @@ yarn start
 - 📌 Supports [Phosphor Icons](https://phosphoricons.com/) (If desired, the icon set can be modified within `/styles/tillerConfig.tsx` file. Click [here](http://tiller-storybook-development.tos-cloud.lan.croz.net/?path=/docs/component-library-icons-icon--simple#using-custom-icon-library) for more.)
 - 📌 [React Router v6](https://reactrouter.com/en/main)
 
-## 🎨 Tiller Design System - UI Kit
+## 🎨 Tiller Design System - Figma UI Kit
 
 Tiller DS **UI kit** in **Figma** is a collection of Tiller components that allow you to easily create user interfaces for your **Figma projects**. It includes common components like buttons, input fields, and menus, as well as more specialized components, like Formik components or Login Pattern.
 
