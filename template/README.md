@@ -46,7 +46,7 @@ yarn start
 - 📦️ Installed Tiller (`@tiller-ds/theme` & `@tiller-ds/core` modules)
 - 🎨 Initial theme setup in `/styles/tillerConfig.tsx`
 - 📌 Supports [TailwindCSS](https://tailwindcss.com/)
-- 📌 Supports [Phosphor Icons](https://phosphoricons.com/) (If desired, the icon set can be modified within `/styles/tillerConfig.tsx` file. Click [here](http://tiller-storybook-development.tos-cloud.lan.croz.net/?path=/docs/component-library-icons-icon--simple#using-custom-icon-library) for more.)
+- 📌 Supports [Phosphor Icons](https://phosphoricons.com/) (If desired, the icon set can be modified within `/styles/tillerConfig.tsx` file. Click [here](https://croz-ltd.github.io/tiller/?path=/docs/component-library-icons-icon--icon-factory#using-custom-icon-library) for more.)
 - 📌 [React Router v6](https://reactrouter.com/en/main)
 
 ## 🎨 Tiller Design System - Figma UI Kit
@@ -59,7 +59,7 @@ https://www.figma.com/file/QVaavJ0ZFn1AOsBnTjr7F1/Tiller-Design-System---UI-KIT?
 
 For more information about **Tiller Design System**, please refer to:
 
-- [Getting Started](http://tiller-storybook-development.tos-cloud.lan.croz.net/?path=/docs/introduction--page) – How to use Tiller Components
+- [Getting Started](https://croz-ltd.github.io/tiller/?path=/docs/introduction--page) – How to use Tiller Components
 - [GitHub](https://github.com/croz-ltd/tiller)
 
 ## 🙌 Contributing
