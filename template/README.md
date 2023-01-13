@@ -1,8 +1,8 @@
-<img width="914" alt="Tiller Design System with CRA" src="template_banner.jpg" align="center">
+<img width="914" alt="Tiller Design System with CRA" src="https://raw.githubusercontent.com/croz-ltd/tiller-starter-cra/master/template/template_banner.jpg" align="center">
 <br />
 
 <div align="center" >
-<h1>Getting Started with @tiller/cra-template</h1>
+<h1>Getting Started with @tiller-ds/cra-template</h1>
 The official Tiller template for Create React App. <br>
 Designed for <strong>highly scalable</strong> & <strong>performant</strong> React applications, <br /> emphasizing the <strong>best UX</strong> and <strong>best practices</strong>.
 </div>
@@ -11,7 +11,7 @@ Designed for <strong>highly scalable</strong> & <strong>performant</strong> Reac
 
 <p align="center">
   <a href="https://github.com/croz-ltd/tiller-starter-cra/actions/workflows/build.yml">
-    <img src="https://github.com/croz-ltd/nrich-demo-frontend/actions/workflows/build.yml/badge.svg" alt="CI workflow status" />
+    <img src="https://github.com/croz-ltd/tiller-starter-cra/actions/workflows/build.yml/badge.svg" alt="CI workflow status" />
   </a>
   <a href="https://github.com/tiller-starter-cra/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome" />
@@ -23,19 +23,20 @@ Designed for <strong>highly scalable</strong> & <strong>performant</strong> Reac
 Initializing with Yarn (**preferred**):
 
 ```shell script
-yarn create react-app %PROJECT_NAME% --template @tiller/cra-template
+yarn create react-app %PROJECT_NAME% --template @tiller-ds/cra-template
 ```
 
 or with npm:
 
 ```shell script
-npx create-react-app %PROJECT_NAME% --template @tiller/cra-template
+npx create-react-app %PROJECT_NAME% --template @tiller-ds/cra-template
 ``` 
 
 Then
 
 ```shell script
 cd %PROJECT_NAME%
+yarn install
 yarn start
 ```
 
@@ -65,4 +66,4 @@ For more information about **Tiller Design System**, please refer to:
 
 The contributions are most welcome. We would appreciate contributions from the community, regardless of their size. 😍
 
-If you're interested, definitely check our [Contributing Guide](./../CONTRIBUTING.md).
+If you're interested, definitely check our [Contributing Guide](https://github.com/croz-ltd/tiller-starter-cra/blob/master/CONTRIBUTING.md).
