@@ -1,0 +1,7 @@
+{
+  "package": {
+    "dependencies": {
+      "@tiller-ds/cra-template": "1.0.3"
+    }
+  }
+}
