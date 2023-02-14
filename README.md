@@ -53,14 +53,19 @@ yarn start
 
 Tiller DS **UI kit** in **Figma** is a collection of Tiller components that allow you to easily create user interfaces for your **Figma projects**. It includes common components like buttons, input fields, and menus, as well as more specialized components, like Formik components or Login Pattern.
 
-https://www.figma.com/file/QVaavJ0ZFn1AOsBnTjr7F1/Tiller-Design-System---UI-KIT?node-id=8627%3A11169&t=F3NI5LM7tIG1qSnq-0
+- [Figma UI Kit](https://www.figma.com/file/QVaavJ0ZFn1AOsBnTjr7F1/Tiller-Design-System---UI-KIT?node-id=8627%3A11169&t=F3NI5LM7tIG1qSnq-0)
 
 ## 📚 Tiller Docs & Storybook
 
 For more information about **Tiller Design System**, please refer to:
 
-- [Getting Started](https://croz-ltd.github.io/tiller/?path=/docs/introduction--page) – How to use Tiller Components
+- [Storybook](https://croz-ltd.github.io/tiller/?path=/docs/introduction--page) 
+  - Usage documentation for each component
+  - Prop documentation for each component
+  - Factories for a number of components to easily visualize and create components
+  - Code preview for each story
 - [GitHub](https://github.com/croz-ltd/tiller)
+- [npm](https://www.npmjs.com/package/@tiller-ds/core)
 
 ## 🙌 Contributing
 
