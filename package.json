@@ -1,6 +1,26 @@
 {
   "name": "@tiller-ds/cra-template",
-  "version": "1.0.5",
+  "version": "1.0.6",
+  "description": "Tiller Design System's Create React App starter with preloaded key dependencies",
+  "keywords": [
+    "accessibility",
+    "component library",
+    "cra template",
+    "cra",
+    "create react app",
+    "customizable",
+    "design system",
+    "modularity",
+    "react components",
+    "react",
+    "starter app",
+    "style guide",
+    "tailwind css",
+    "theming",
+    "tiller",
+    "tiller-ds",
+    "ui kit"
+  ],
   "devDependencies": {
     "prettier": "2.7.1"
   }
